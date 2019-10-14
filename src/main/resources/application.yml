@@ -1,0 +1,8 @@
+server:
+  port: 9999
+  session:
+    cookie:
+      name: SESSIONID
+spring:
+  application:
+    name: merchantsso
